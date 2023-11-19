@@ -1,6 +1,4 @@
-# onboarding
-
-A new Flutter project.
+# Flutter Onboarding Screen
 
 ## Getting Started
 
